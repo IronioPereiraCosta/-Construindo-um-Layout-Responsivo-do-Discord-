@@ -11,15 +11,15 @@ Entrada
 
 
 -Exemplos de Entrada	-Exemplos de Saída
-5.5                     REC
+5.5          -->          REC
 
  
- 8                      APR                      
+ 8           -->          APR                      
 
                         
-2                       REP
+2            -->          REP
 	                      
---> < "" = ();{ ,} i f "Entendido"? !✍
+--> < "" = ( );{ ,} i f "Entendido"? !✍
 
 
 
