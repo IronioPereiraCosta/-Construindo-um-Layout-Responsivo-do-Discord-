@@ -10,14 +10,15 @@ Caso a média seja >7 imprima "APR".
 Entrada
 
 
--Exemplos de Entrada	-Exemplos de Saída
-5.5          -->          REC
+-Exemplos de Entrada	Exemplos de Saída
+
+5.5          -->          REP
 
  
- 8           -->          APR                      
+ 8           -->          REC                      
 
                         
-2            -->          REP
+2            -->          APR
 	                      
 --> < "" = ( );{ ,} i f "Entendido"? !✍
 
@@ -27,8 +28,8 @@ fun main() {
    val media = readLine()!!.toDouble();
    
    when {
-       //media < 5 -> println("Reprovado");
-       //else -> TODO("Criar demais condições para a resolução deste desafio.")😉      
+       media < 5 -> println("Reprovado");
+       else -> TODO("Criar demais condições para a resolução deste desafio.")😉      
 
    }
 }
