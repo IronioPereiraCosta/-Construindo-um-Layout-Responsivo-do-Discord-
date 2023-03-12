@@ -15,10 +15,10 @@ Entrada
 5.5          -->          REP
 
  
- 8           -->          REC                      
+ 8           -->          REC 
 
-                        
-2            -->          APR
+
+ 2           -->          AP     
 	                      
 --> < "" = ( );{ ,} i f "Entendido"? !✍
 
@@ -29,7 +29,7 @@ fun main() {
    
    when {
        media < 5 -> println("Reprovado");
-       else -> TODO("Criar demais condições para a resolução deste desafio.")😉      
+       else -> TODO("Criar demais condições para a resolução deste desafio.")😉 🚀
 
    }
 }
