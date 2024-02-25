@@ -1,38 +1,19 @@
-# Desafio-De-Codigo-Aberto
+# Clonando a página do youtube com CSS
+E implementar o desafio com HTML:5 e CSS
 
-
-Faça um programa que Receba
-  -ENTRADA E RESPECTIVA SAIDAS;
   
-Caso a média seja < 5 imprima "REP";
-Caso a média seja >= 5 e < 7 imprima "REC";
-Caso a média seja >7 imprima "APR".
-Entrada
 
 
--Exemplos de Entrada	Exemplos de Saída
 
-5.5          -->          REP
 
  
- 8           -->          REC 
 
 
- 2           -->          AP     
 	                      
---> < "" = ( );{ ,} i f "Entendido"? !✍
 
 
 
-fun main() {
-   val media = readLine()!!.toDouble();
    
-   when {
-       media < 5 -> println("Reprovado");
-       else -> TODO("Criar demais condições para a resolução deste desafio.")😉 🚀
-
-   }
-}
 
 
 
